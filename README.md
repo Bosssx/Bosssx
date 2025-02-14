@@ -1,9 +1,9 @@
 ## Oi! Eu sou o Miguel
 
-- 🔭 Hoje trabalho com Front-end
-- 🌱 Estudando HTML 5 e CSS 3
+- 🔭 Hoje estou cursando tecnico em desenvolvimento de sistemas
+- 🌱 Estudando Python, Java e Banco de dados
 - 📫 Contate-me no email: miguelfroco96@gmail.com
-- 😄 Pronouns: ele/dele
+
 
 
 <div align="center">
@@ -13,7 +13,7 @@
   </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ 
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
